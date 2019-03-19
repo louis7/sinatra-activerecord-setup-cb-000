@@ -1,3 +1,3 @@
-class Author < ActiveRecord::Base
+class Dog < ActiveRecord::Base
   
 end
